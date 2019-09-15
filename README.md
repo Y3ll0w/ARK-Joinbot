@@ -10,9 +10,9 @@ Code of Conduct: Allowed on ALL Server! (https://survivetheark.com/index.php?/co
 
 | Server Type | Working? |
 | ------------- | ------------- |
-| ARK Official  | :heavy_check_mark:  |
-| ARK Unofficial  | :heavy_check_mark:  |
-| ARK DLC's  | :heavy_check_mark:  |
+| [ARK](https://store.steampowered.com/app/346110/ARK_Survival_Evolved/) Official  | :heavy_check_mark:  |
+| [ARK](https://store.steampowered.com/app/346110/ARK_Survival_Evolved/) Unofficial  | :heavy_check_mark:  |
+| [ARK](https://store.steampowered.com/app/346110/ARK_Survival_Evolved/) DLC's  | :heavy_check_mark:  |
 | [ATLAS](https://store.steampowered.com/app/834910/ATLAS/)  | :x:  |
 
 # Download
