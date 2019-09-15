@@ -8,6 +8,13 @@ Allows you to join faster on a full ingame server
 
 Code of Conduct: Allowed on ALL Server! (https://survivetheark.com/index.php?/code-of-conduct/)
 
+| Server Type | Working? |
+| ------------- | ------------- |
+| ARK Official  | :heavy_check_mark:  |
+| ARK Unofficial  | :heavy_check_mark:  |
+| ARK DLC's  | :heavy_check_mark:  |
+| ATLAS  | :x:  |
+
 # Download
 [Here](https://github.com/Y3ll0w/ARK-Joinbot/releases/download/Release/ALane.exe)
 
