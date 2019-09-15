@@ -1,5 +1,5 @@
 
-# :fire: ARK-Joinbot
+# :fire: ARK: Survival Evolved Joinbot
 
 Allows you to join faster on a full ingame server
 
