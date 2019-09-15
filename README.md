@@ -13,7 +13,7 @@ Code of Conduct: Allowed on ALL Server! (https://survivetheark.com/index.php?/co
 | ARK Official  | :heavy_check_mark:  |
 | ARK Unofficial  | :heavy_check_mark:  |
 | ARK DLC's  | :heavy_check_mark:  |
-| ATLAS  | :x:  |
+| [ATLAS](https://store.steampowered.com/app/834910/ATLAS/)  | :x:  |
 
 # Download
 [Here](https://github.com/Y3ll0w/ARK-Joinbot/releases/download/Release/ALane.exe)
