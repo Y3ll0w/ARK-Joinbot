@@ -122,7 +122,7 @@ Public Class main
         Dim webClient As New System.Net.WebClient
         Dim result As String = webClient.DownloadString("https://api.battlemetrics.com/servers/" + code)
 
-        TextBox1.Text = GetStringBetween(result, """,""ip"":""", """,""port"":")
+        TextBox1.Text = GetStringBetween(result, ",""ip"":""", """,""port")
         TextBox2.Text = GetStringBetween(result, """,""portQuery"":", ",""country"":")
         TextBox3.Text = GetStringBetween(result, "maxPlayers"":", ",""rank")
     End Sub
