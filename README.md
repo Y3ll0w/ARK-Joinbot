@@ -3,7 +3,7 @@
 [Here](https://github.com/Y3ll0w/ARK-Joinbot/releases/download/Release/ALane.exe)
 
 
-# :fire: ARK: Survival Evolved Joinbot
+# :fire: ARK: Survival Evolved Joinbot / Join Bot
 
 Allows you to join faster on a full ingame server
 
