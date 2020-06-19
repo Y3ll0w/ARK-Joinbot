@@ -23,4 +23,4 @@ Code of Conduct: Allowed on ALL Server! (https://survivetheark.com/index.php?/co
 >(**Click image above to open YouTube video**)
 
 # Questions or Problems :question:
-[Join the Discord Server](https://discord.gg/9SXqQB4)
+[Join the Discord Server](https://discord.gg/THhxKkB)
